@@ -16,6 +16,10 @@ Armok - A huge shoutout to him for being a good friend in general, for doing a l
 Pixelflame - Also a huge shoutout to her for spriting what would be the definitive version of the Protectorate Astraeus logo.
 
 # To do list
+__UPDATE__
+- Add changes to the protectoratetrivia and easprotectorate codices.
+- Add a way for Envoys on planets to defend themselves.
+
 __MOD SUPPORT__
 - Scripted SAIL
 - Enhanced Storage Addon
