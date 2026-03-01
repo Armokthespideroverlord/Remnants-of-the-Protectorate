@@ -19,6 +19,7 @@ Pixelflame - Also a huge shoutout to her for spriting what would be the definiti
 __UPDATE__
 - Add changes to the protectoratetrivia and easprotectorate codices.
 - Add a way for Envoys on planets to defend themselves.
+- Make anvil specific alts for the armor sets and shield, ensure that they're for the replicator.
 
 __MOD SUPPORT__
 - Scripted SAIL
